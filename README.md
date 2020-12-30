@@ -1,1 +1,3 @@
-# Hello From Vuepress!
+# Ritza Showcase
+
+[Quicksort Tutorial][./guide/quicksort.html]
