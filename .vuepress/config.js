@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'My VuePress Project',
+  title: 'Ritza Example Work',
   description: `A simple VuePress project deployed with vercel`,
   themeConfig: {
     nav: [
