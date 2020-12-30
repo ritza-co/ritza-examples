@@ -1,3 +1,3 @@
 # Ritza Showcase
 
-[Quicksort Tutorial][./guide/quicksort.html]
+[Quicksort Tutorial](./guide/quicksort.html)
